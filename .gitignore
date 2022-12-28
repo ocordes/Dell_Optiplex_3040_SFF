@@ -1,0 +1,5 @@
+EFI.*
+EFI/CLOVER/config_*.plist
+EFI/OC/config_*.plist
+EFI/Dell
+EFI/APPLE
